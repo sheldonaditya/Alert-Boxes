@@ -1,0 +1,6 @@
+<body>
+<div class="box tips">Write a useful tips here.</div>
+<div class="box warning">Write a fatal warning here.</div>
+<div class="box info">Write an important info here.</div>
+<div class="box success">Write a positive output here.</div>
+</body> 
